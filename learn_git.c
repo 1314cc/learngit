@@ -7,5 +7,6 @@ int main()
 	printf("hello git1\n");
 	printf("git is a distributed version control system\n");
 
+	printf("git is a distributed version control system");
 	return 0;
 }
